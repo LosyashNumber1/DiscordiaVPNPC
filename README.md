@@ -1,1 +1,1 @@
-# DiscordiaVPNPC
+# DiscordiaVPN for PC
